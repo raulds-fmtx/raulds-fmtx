@@ -1,14 +1,14 @@
 ## Raul D. Santos
 
 ### About Me:
+I am a passionate Full Stack Developer and Data Scientist with a solid foundation in Aerospace Engineering. My diverse skill set spans across web development, systems engineering, and data analysis, making me a versatile contributor to any tech-driven team. With hands-on experience in the MERN stack, SQL & NoSQL databases, and algorithm analysis, I am eager to solve complex problems and drive innovation.
 
 ### Algorithms [LeetCode](https://leetcode.com/u/rdsflomo03/)
 
 ### Working on: 🚀
-
 -
 -
--
+- 
 
 ## Languages and Tools 
 <div>
